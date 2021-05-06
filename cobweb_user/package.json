@@ -1,0 +1,27 @@
+{
+    "name": "database",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "axios": "^0.21.0",
+        "bignumber.js": "^9.0.1",
+        "body-parser": "*",
+        "connect-flash": "*",
+        "cookie-parser": "*",
+        "ejs": "*",
+        "errorhandler": "*",
+        "express": "*",
+        "express-error-handler": "*",
+        "express-mysql-session": "*",
+        "express-session": "*",
+        "mysql2": "*",
+        "passport": "*",
+        "passport-facebook": "*",
+        "passport-google-oauth": "*",
+        "passport-local": "*",
+        "passport-twitter": "*",
+        "pbkdf2-password": "*",
+        "serve-static": "*",
+        "web3": "*"
+    }
+}
